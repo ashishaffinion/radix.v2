@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/mediocregopher/radix.v2/cluster"
-	"github.com/mediocregopher/radix.v2/redis"
+	"github.com/ashishaffinion/radix.v2/cluster"
+	"github.com/ashishaffinion/radix.v2/redis"
 )
 
 // ScanOpts are various parameters which can be passed into ScanWithOpts. Some
